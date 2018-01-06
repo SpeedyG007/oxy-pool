@@ -2,12 +2,12 @@
 	"coin": "OXY",
 	"node": "https://wallet.oxycoin.io",
 	"nodepay": "https://wallet.oxycoin.io",
-	"pubkey": "0927dc2caa6d2bc2b516fd499562b669027629da75ddd44304352b6cd735fa26",
-	"percentage": 80,
+	"pubkey": "cbeedbc5fad6438cbfb334bfcd2dd8f8958d76f433c38cf89ae357f28ee60aa1",
+	"percentage": 100,
 	"logfile": "poollogs.json",
 	"minpayout": 1.0,
-	"secret": "SECRET",
-	"secondsecret": "SECRET2",
+	"secret": "",
+	"secondsecret": "",
     "donations": {
 		
     },
